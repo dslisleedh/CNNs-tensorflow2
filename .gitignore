@@ -1,0 +1,4 @@
+./.gitignore
+./1AlexNet/.ipynb_checkpoints/
+./2VGGNet/.ipynb_checkpoints/
+./3Inception/.ipynb_checkpoints/
