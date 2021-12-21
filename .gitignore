@@ -1,5 +1,4 @@
-.gitingore
-./1AlexNet/.ipynb_checkpoints/
-./2VGGNet/.ipynb_checkpoints/
-./3Inception/.ipynb_checkpoints/
-./4ResNet/.ipynb_checkpoints/
+1AlexNet/.ipynb_checkpoints/
+2VGGNet/.ipynb_checkpoints/
+3Inception/.ipynb_checkpoints/
+4ResNet/.ipynb_checkpoints/
