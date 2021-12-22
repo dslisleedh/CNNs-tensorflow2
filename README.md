@@ -12,5 +12,6 @@ VGGNet  : [[Code]](https://github.com/dslisleedh/CNNs-tensorflow2/tree/main/2VGG
 InceptionV1(GoogleNet) : [[Code]](https://github.com/dslisleedh/CNNs-tensorflow2/blob/main/3Inception/InceptionV1(GoogleNet).ipynb)  
 InceptionV3 : [[Code]](https://github.com/dslisleedh/CNNs-tensorflow2/blob/main/3Inception/InceptionV3.ipynb)  
 InceptionV4 : [[Code]](https://github.com/dslisleedh/CNNs-tensorflow2/blob/main/3Inception/InceptionV4.ipynb)  
+InceptionResnetV2 : [[Code]](https://github.com/dslisleedh/CNNs-tensorflow2/blob/main/3Inception/InceptionResV2.ipynb)  
 ResNet : [[Code]](https://github.com/dslisleedh/CNNs-tensorflow2/blob/main/4ResNet/ResNet.ipynb)  
 DenseNet : [[Code]](https://github.com/dslisleedh/CNNs-tensorflow2/blob/main/5DenseNet/DenseNet.ipynb)  
