@@ -11,7 +11,7 @@ CNNs-tensorflow2
 
 ![AlexNetMode](https://github.com/dslisleedh/CNNs-tensorflow2/blob/main/1AlexNet/src/Model.jpg?raw=true)  
 
-[[Code]](https://github.com/dslisleedh/CNNs-tensorflow2/blob/main/1AlexNet/Alexnet.ipynb) [[Review]](https://github.com/dslisleedh/CNNs-tensorflow2/blob/main/1AlexNet/PaperReview.md)  
+[[Code]](https://github.com/dslisleedh/CNNs-tensorflow2/blob/main/1AlexNet/Alexnet.ipynb) [[Review]](https://github.com/dslisleedh/CNNs-tensorflow2/wiki#alexnet)  
 
 <h3>VGGNet</h3>
 
