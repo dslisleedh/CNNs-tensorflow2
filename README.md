@@ -6,16 +6,17 @@ CNNs-tensorflow2
 
 <h2>구현목록</h3>
 
-
 <h3>AlexNet</h3> 
 
 ![AlexNetMode](https://github.com/dslisleedh/CNNs-tensorflow2/blob/main/1AlexNet/src/Model.jpg?raw=true)  
 
-[[Code]](https://github.com/dslisleedh/CNNs-tensorflow2/blob/main/1AlexNet/Alexnet.ipynb) [[Review]](https://github.com/dslisleedh/CNNs-tensorflow2/wiki#alexnet)  
+[[Code]](https://github.com/dslisleedh/CNNs-tensorflow2/blob/main/1AlexNet/Alexnet.ipynb) [[Review]](https://github.com/dslisleedh/CNNs-tensorflow2/wiki/AlexNet)  
 
 <h3>VGGNet</h3>
 
-[[Code]](https://github.com/dslisleedh/CNNs-tensorflow2/tree/main/2VGGNet)  
+![VGGNet](https://raw.githubusercontent.com/blurred-machine/Data-Science/master/Deep%20Learning%20SOTA/img/network.png)
+
+[[Code]](https://github.com/dslisleedh/CNNs-tensorflow2/blob/main/2VGGNet/VGGNet.ipynb) [[Review]](https://github.com/dslisleedh/CNNs-tensorflow2/wiki/VGGNet)  
 
 <h3>InceptionV1(GoogleNet)</h3>
 
