@@ -16,7 +16,7 @@ CNNs-tensorflow2
 
 ![VGGNet](https://raw.githubusercontent.com/blurred-machine/Data-Science/master/Deep%20Learning%20SOTA/img/network.png)
 
-[[Code]](https://github.com/dslisleedh/CNNs-tensorflow2/blob/main/2VGGNet/VGGNet.ipynb) [[Review]](https://github.com/dslisleedh/CNNs-tensorflow2/wiki/VGGNet)  
+[[Code]](https://github.com/dslisleedh/CNNs-tensorflow2/blob/main/2VGGNet/VGGNet.ipynb) [[Review]](https://github.com/dslisleedh/CNNs-tensorflow2/wiki/VGGNet) [[arXiv]](https://arxiv.org/abs/1409.1556)  
 
 <h3>InceptionV1(GoogleNet)</h3>
 
