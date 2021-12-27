@@ -18,7 +18,9 @@ CNNs-tensorflow2
 
 [[Code]](https://github.com/dslisleedh/CNNs-tensorflow2/blob/main/2VGGNet/VGGNet.ipynb) [[Review]](https://github.com/dslisleedh/CNNs-tensorflow2/wiki/VGGNet) [[arXiv]](https://arxiv.org/abs/1409.1556)  
 
-<h3>InceptionV1(GoogleNet)</h3>
+<h3>InceptionV1(GoogleNet)</h3>  
+
+![InceptionV1](https://github.com/dslisleedh/CNNs-tensorflow2/blob/main/3Inception/src/InceptionV1(GoogLeNet)/Model2.jpg)  
 
 [[Code]](https://github.com/dslisleedh/CNNs-tensorflow2/blob/main/3Inception/InceptionV1(GoogleNet).ipynb) [[Review]](https://github.com/dslisleedh/CNNs-tensorflow2/wiki/InceptionV1(GoogLeNet)) [[arXiv]](https://arxiv.org/abs/1409.4842)  
 
