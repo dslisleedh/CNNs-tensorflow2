@@ -20,7 +20,7 @@ CNNs-tensorflow2
 
 <h3>InceptionV1(GoogleNet)</h3>
 
-[[Code]](https://github.com/dslisleedh/CNNs-tensorflow2/blob/main/3Inception/InceptionV1(GoogleNet).ipynb) [[arXiv]](https://arxiv.org/abs/1409.4842)  
+[[Code]](https://github.com/dslisleedh/CNNs-tensorflow2/blob/main/3Inception/InceptionV1(GoogleNet).ipynb) [[Review]](https://github.com/dslisleedh/CNNs-tensorflow2/wiki/InceptionV1(GoogLeNet)) [[arXiv]](https://arxiv.org/abs/1409.4842)  
 
 <h3>InceptionV3</h3>
 
