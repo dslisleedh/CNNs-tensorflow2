@@ -38,7 +38,11 @@ CNNs-tensorflow2
 
 <h3>ResNet</h3>
 
-[[Code]](https://github.com/dslisleedh/CNNs-tensorflow2/blob/main/4ResNet/ResNet.ipynb)  
+![ResNet](https://github.com/dslisleedh/CNNs-tensorflow2/blob/main/4ResNet/src/Model.jpg)
+
+[[Code]](https://github.com/dslisleedh/CNNs-tensorflow2/blob/main/4ResNet/ResNet.ipynb)[[Review]](https://github.com/dslisleedh/CNNs-tensorflow2/wiki/ResNet)[[arXiv]](https://arxiv.org/abs/1512.03385)  
+
+중요해서 ResNet과같이 리뷰한 논문[Identity Mappings in Deep Residual Networks](https://arxiv.org/abs/1603.05027)
 
 <h3>DenseNet</h3>
 
