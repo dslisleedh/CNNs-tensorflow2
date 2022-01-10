@@ -47,3 +47,9 @@ CNNs-tensorflow2
 <h3>DenseNet</h3>
 
 [[Code]](https://github.com/dslisleedh/CNNs-tensorflow2/blob/main/5DenseNet/DenseNet.ipynb)  
+
+<h3>SENet</h3>  
+
+![SEBlock](https://github.com/dslisleedh/CNNs-tensorflow2/blob/main/6SENet/imgs/seblock.jpg)
+
+[[Code]](https://github.com/dslisleedh/CNNs-tensorflow2/tree/main/6SENet)  [[arXiv]](https://arxiv.org/abs/1709.01507)
